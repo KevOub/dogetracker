@@ -1,0 +1,9 @@
+{
+    "Username": "",
+    "Coins":"0",
+    "DogeToken":"",
+    "NomicsAPI":"",
+    "DiscordWebhook":"",
+    "Intervals": 120,
+    "Thresholds": 0.01
+}

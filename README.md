@@ -23,6 +23,7 @@ Intervals: The time in between calculations
 Thresholds: TODO _ bolder notifications / only notify when the threshold change has passed (I.E., increase/ decrease by a whole cent / dollar, etc.)
 
 ## Stuck? heres a hand
+The api for the crypto exchange
 https://nomics.com/
 
 Get webhook: no need to worry about the github stuff

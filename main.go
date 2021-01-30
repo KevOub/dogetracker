@@ -14,7 +14,6 @@ import (
 // Reads config.json
 type config struct {
 	Username       string
-	Coins          string
 	DogeToken      string
 	NomicsAPI      string
 	DiscordWebhook string

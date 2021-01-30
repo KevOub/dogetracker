@@ -1,9 +1,9 @@
 {
-    "Username": "",
+    "Username": "penis breath",
     "Coins":"0",
-    "DogeToken":"",
-    "NomicsAPI":"",
-    "DiscordWebhook":"",
+    "DogeToken":"DTnt7VZqR5ofHhAxZuDy4m3PhSjKFXpw3e",
+    "NomicsAPI":"bad5926b0ebda64186f12aa2f641355f",
+    "DiscordWebhook":"https://discord.com/api/webhooks/804836632943263824/BqWDIJrsvSbf2Tu_t0Zc_SpWM5Bh6WGx_D-_40midSUKEz8rnpwzo68ddiVg1Jt9moWw",
     "Intervals": 120,
     "Thresholds": 0.01
 }

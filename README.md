@@ -4,6 +4,7 @@ Simple discord bot that displays price of dogecoin and notifies in increments
 
 
 ## Configuration
+Create file called config.json and fill this out (order matters)
 ```
 {
     "Username": "",
